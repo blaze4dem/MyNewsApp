@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_height">80dp</dimen>
+    <dimen name="space">8dp</dimen>
+    <dimen name="space2">16dp</dimen>
+    <dimen name="date">11sp</dimen>
+    <dimen name="date2">10sp</dimen>
+    <dimen name="text_news">16sp</dimen>
+</resources>
